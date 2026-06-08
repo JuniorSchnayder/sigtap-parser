@@ -1,0 +1,9 @@
+# Ignorar arquivos de dados brutos e relatórios gerados
+dados_Sigtap/
+relatorios/
+
+# Arquivos do ambiente virtual do Python e cache
+venv/
+.venv/
+__pycache__/
+*.pyc
